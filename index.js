@@ -75,3 +75,5 @@ list.addEventListener('click', function(e) {
     itDel.remove();
     // tem.remove();
 })
+
+// This is a comment testing the work of git
